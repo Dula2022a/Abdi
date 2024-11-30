@@ -1,2 +1,0 @@
-# Abdi
-Tutorial for pharmacology
